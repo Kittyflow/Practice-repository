@@ -4,3 +4,5 @@ As an absolute beginner, it could we very overwhelming, it looks very complicate
 
 ## 1. What should I do next??
 Heres your first step:
+### 1. Fork this repo
+![Fork Image](
